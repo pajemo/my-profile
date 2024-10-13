@@ -20,7 +20,7 @@
 ## <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 - **I'm an adaptable, resourceful, and meticulous software engineering intern at [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development.**
 - **I share innovative tech solutions and insights on my [YouTube Channel](https://www.youtube.com/channel/UC7T0KGR3PnopaAxczvSAqHw)**
-- **I connect the world to Abuja businesses and offer ICT tech solutions and insights on my [Whatsapp community](+13462024783)** 
+- **I connect the world to Accra businesses and offer ICT tech solutions and insights on my [Whatsapp community](+13462024783)** 
 - **`Fun fact about me`**  **i love pets and kids ** 😅  😅
 - **`Favorite Quote:`** **If you're always trying to be Normal, you'll never know how amazing you can be!**
 - **For inquiries or opportunities, please send me an** **[e-mail](pajemo2004@yahoo.com)** 
@@ -38,8 +38,8 @@
 
 <p align="center">
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=billsanthony&show_icons=true&count_private=true&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=billsanthony&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pajemo&show_icons=true&count_private=true&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=pajemo&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </p> 
 
 <div align="center">
